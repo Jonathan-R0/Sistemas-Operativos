@@ -1,0 +1,11 @@
+find.c
+pingpong.c
+primes.c
+xargs.c
+ps.c
+timeout.c
+strace.c
+ps.h
+timeout.h
+strace.h
+syscallent.h

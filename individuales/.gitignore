@@ -1,0 +1,9 @@
+*.o
+find
+pingpong
+primes
+ps
+strace
+timeout
+xargs
+*vscode
